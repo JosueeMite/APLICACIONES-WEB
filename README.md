@@ -1,10 +1,9 @@
 <html>
 <head>
-  <title>Biografias</title>
 </head>
 <body>
   <h1>BIOGRAFIAS</h1>
-
+  
   <h2> 1. LIONEL ANDRES MESSI </h2>
   <p>
     Lionel Messi, nacido el 24 de junio de 1987 en Rosario, Argentina, es considerado uno de los mejores futbolistas de todos los tiempos. 
@@ -16,7 +15,6 @@
     <br>Ha ganado el premio Balón de Oro en múltiples ocasiones, 
     reconociendo al mejor jugador del mundo. Además, ha sido el máximo goleador de La Liga en varias temporadas y ha establecido el récord de más goles en un año calendario. En 2021, después de una carrera de más de 20 años en el FC Barcelona, Messi dejó el club debido a problemas financieros y se unió al Paris Saint-Germain (PSG) en la liga francesa. Con el PSG, Messi continúa demostrando su habilidad y liderazgo en el campo. Su Mayor logro, lo que siempre deseo desde sus inicios fue ganar titulos con su seleccion. Esto ocurrio en los años 2021 - 2022. Argentina de la mano de Messi logro ganar: Copa America(2021),Finalissima(2022) y World Cup(2022).
     <br>
-  </p>
   <img src="https://cronometro.hn/wp-content/uploads/2022/12/Copa.jpg"
   alt="Foto de Messi">
   <br>
@@ -33,7 +31,6 @@
     <br>
     <br>Esta situación generó gran atención mediática y sus fanáticos expresaron su apoyo en redes sociales bajo el lema "FreeLondra". A pesar de estos obstáculos, Paulo Londra ha continuado trabajando en nueva música y ha logrado mantener una base de seguidores leales en todo el mundo. Su estilo único y su habilidad lírica lo han convertido en uno de los artistas más destacados de la escena musical urbana en Latinoamérica
   <br>
- <p>
   <img src="https://assets.change.org/photos/4/xc/cl/wsxcCLqfSuotKar-800x450-noPad.jpg?1600288703" 
   alt="Foto de Paulo Londra">
   <br>
