@@ -16,15 +16,13 @@ Pagina web
     <br> En 2004, con tan solo 17 años, Messi hizo su debut en el primer equipo del FC Barcelona. A lo largo de su carrera, 
     Messi ha conseguido innumerables éxitos y ha establecido numerosos récords. Ha ganado múltiples títulos de La Liga, la Copa del Rey y la Liga de 
     <br>
-    <br>Campeones de la UEFA con el Barcelona, ​​contribuyendo con goles y asistencias vitales en momentos clave. A nivel individual, Messi ha recibido numerosos premios y reconocimientos. 
+    <br>Campeones de la UEFA con el Barcelona,contribuyendo con goles y asistencias vitales en momentos clave. A nivel individual, Messi ha recibido numerosos premios y reconocimientos. 
     <br>
     <br>Ha ganado el premio Balón de Oro en múltiples ocasiones, 
     reconociendo al mejor jugador del mundo. Además, ha sido el máximo goleador de La Liga en varias temporadas y ha establecido el récord de más goles en un año calendario.
     <br>
     <br> En 2021, después de una carrera de más de 20 años en el FC Barcelona, 
-    Messi dejó el club debido a problemas financieros y se unió al 
-    
-     Paris Saint-Germain (PSG) en la liga francesa. Con el PSG, Messi continúa demostrando su habilidad y liderazgo en el campo.
+    Messi dejó el club debido a problemas financieros y se unió al Paris Saint-Germain (PSG) en la liga francesa. Con el PSG, Messi continúa demostrando su habilidad y liderazgo en el campo.
     <br>
     <br> Su Mayor logro, lo que siempre deseo desde sus inicios fue ganar titulos con su seleccion. Esto ocurrio en los años 2021 - 2022. 
     Argentina de la mano de Messi logro ganar: Copa America(2021),Finalissima(2022) y World Cup(2022).
