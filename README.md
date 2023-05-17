@@ -7,7 +7,6 @@ Pagina web
 </head>
 <body>
   <h1>BIOGRAFIAS</h1>
-
   <h2> 1. LIONEL ANDRES MESSI </h2>
   <p>
     Lionel Messi, nacido el 24 de junio de 1987 en Rosario, Argentina, es considerado uno de los mejores futbolistas de todos los tiempos. 
@@ -31,15 +30,9 @@ Pagina web
   </p>
   </p>
   <img src="https://cronometro.hn/wp-content/uploads/2022/12/Copa.jpg"
-
-  
   alt="Foto de Messi">
-
 </p>
 <strong>VISITA SU TWITTER: </strong><a href= "https://twitter.com/leomessisite" target= "_blank">Twitter de Messi</a>.
-
-
-
   <br>
   <br>
   <h2> 2. PAULO LONDRA </h2>
