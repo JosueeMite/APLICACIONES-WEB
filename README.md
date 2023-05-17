@@ -24,6 +24,7 @@
     Argentina de la mano de Messi logro ganar: Copa America(2021),Finalissima(2022) y World Cup(2022).
   <img src="https://cronometro.hn/wp-content/uploads/2022/12/Copa.jpg"
   alt="Foto de Messi">
+    <br>
 <strong>VISITA SU TWITTER: </strong><a href= "https://twitter.com/leomessisite" target= "_blank">Twitter de Messi</a>.
   <br>
   <br>
@@ -52,6 +53,7 @@
   <br>
   <img src="https://assets.change.org/photos/4/xc/cl/wsxcCLqfSuotKar-800x450-noPad.jpg?1600288703" 
   alt="Foto de Paulo Londra">
+    <br>
 <strong>VISITA SU TWITTER: </strong>
  <a href="https://twitter.com/paulolondra" target= "_blank">Twitter de Paulo Londra</a>.
  <br>
