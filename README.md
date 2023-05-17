@@ -29,7 +29,9 @@
   <img src="https://cronometro.hn/wp-content/uploads/2022/12/Copa.jpg"
   alt="Foto de Messi">
 </p>
+
 <strong>VISITA SU TWITTER: </strong><a href= "https://twitter.com/leomessisite" target= "_blank">Twitter de Messi</a>.
+
   <br>
   <br>
   <h2> 2. PAULO LONDRA </h2>
@@ -60,8 +62,11 @@
   alt="Foto de Paulo Londra">
   <p> <strong></strong></p>
 </p>
+
 <strong>VISITA SU TWITTER: </strong>
+
  <a href="https://twitter.com/paulolondra" target= "_blank">Twitter de Paulo Londra</a>.
+ 
  <br>
  <br>
  <br>
