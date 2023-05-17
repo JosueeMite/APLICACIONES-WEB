@@ -48,45 +48,33 @@ Pagina web
     <br>
     <br>Desde una edad temprana, Paulo mostró interés y talento por la música. Comenzó a escribir letras de canciones y a grabar sus propias melodías en su casa. Su pasión por el rap y el hip-hop lo llevó a publicar sus primeras canciones en plataformas digitales en 2017.
     <br>
-    
     <br>El gran punto de inflexión en la carrera de Paulo Londra ocurrió en 2018, cuando lanzó el sencillo "Adán y Eva", que se convirtió en un éxito viral en Latinoamérica y España. El tema alcanzó millones de reproducciones en plataformas de streaming como YouTube y Spotify.
     <br>
-    
     <br>Después del éxito de "Adán y Eva", Londra continuó lanzando sencillos populares como "Chica Paranormal", "Tal Vez", "Forever Alone" y "Condenado para el millón". Sus canciones se caracterizan por mezclar ritmos de rap, trap y reggaeton, 
     <br>
     <br>y abordan temas como el amor, las relaciones y las experiencias personales.
     <br>
-    
     <br>Además de su éxito como solista, Paulo Londra ha colaborado con varios artistas reconocidos, como Becky G en la canción "Cuando Te Besé" y Lenny Tavárez en "Nena Maldición". Estas colaboraciones han ampliado aún más su popularidad y le han permitido llegar a nuevos públicos.
     <br>
-    
     <br>Sin embargo, a pesar de su rápido ascenso en la industria musical, Paulo Londra ha enfrentado algunos desafíos legales y disputas contractuales. En 2019, el cantante se vio envuelto en una disputa legal con su antigua discográfica, lo que resultó en la limitación de sus actividades musicales. 
     <br>
     <br>Esta situación generó gran atención mediática y sus fanáticos expresaron su apoyo en redes sociales bajo el lema "FreeLondra".
-    
     <br>
     <br>A pesar de estos obstáculos, Paulo Londra ha continuado trabajando en nueva música y ha logrado mantener una base de seguidores leales en todo el mundo. 
     <br>
     <br>Su estilo único y su habilidad lírica lo han convertido en uno de los artistas más destacados de la escena musical urbana en Latinoamérica
-  
   </p>
   <br>
   <br>
   <img src="https://assets.change.org/photos/4/xc/cl/wsxcCLqfSuotKar-800x450-noPad.jpg?1600288703" 
-  
   alt="Foto de Paulo Londra">
   <p> <strong></strong></p>
 </p>
 <strong>VISITA SU TWITTER: </strong>
  <a href="https://twitter.com/paulolondra" target= "_blank">Twitter de Paulo Londra</a>.
-
-
  <br>
  <br>
  <br>
  <br>
  <br>
- 
- 
- 
-        <p> <strong>By: Figueroa Mite Angel Josue:)</strong>
+  <p> <strong>By: Figueroa Mite Angel Josue:)</strong>
