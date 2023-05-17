@@ -46,7 +46,6 @@ Pagina web
   <p>
     <br>Paulo Londra es un cantante, rapero y compositor argentino nacido el 12 de abril de 1998 en la ciudad de Córdoba, Argentina. Su nombre real es Paulo Ezequiel Londra Antezana.
     <br>
-
     <br>Desde una edad temprana, Paulo mostró interés y talento por la música. Comenzó a escribir letras de canciones y a grabar sus propias melodías en su casa. Su pasión por el rap y el hip-hop lo llevó a publicar sus primeras canciones en plataformas digitales en 2017.
     <br>
     
