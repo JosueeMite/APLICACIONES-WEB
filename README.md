@@ -23,7 +23,6 @@
     <br> Su Mayor logro, lo que siempre deseo desde sus inicios fue ganar titulos con su seleccion. Esto ocurrio en los años 2021 - 2022. 
     Argentina de la mano de Messi logro ganar: Copa America(2021),Finalissima(2022) y World Cup(2022).
   <img src="https://cronometro.hn/wp-content/uploads/2022/12/Copa.jpg"
-       <p>
   alt="Foto de Messi">
 <p><strong>VISITA SU TWITTER: </strong><a href= "https://twitter.com/leomessisite" target= "_blank">Twitter de Messi</a>.
   <br>
@@ -49,7 +48,6 @@
     <br>A pesar de estos obstáculos, Paulo Londra ha continuado trabajando en nueva música y ha logrado mantener una base de seguidores leales en todo el mundo. 
     <br>
     <br>Su estilo único y su habilidad lírica lo han convertido en uno de los artistas más destacados de la escena musical urbana en Latinoamérica
- <p>
   <img src="https://assets.change.org/photos/4/xc/cl/wsxcCLqfSuotKar-800x450-noPad.jpg?1600288703" 
        <br>
   alt="Foto de Paulo Londra">
