@@ -18,17 +18,10 @@
     reconociendo al mejor jugador del mundo. Además, ha sido el máximo goleador de La Liga en varias temporadas y ha establecido el récord de más goles en un año calendario. En 2021, después de una carrera de más de 20 años en el FC Barcelona, Messi dejó el club debido a problemas financieros y se unió al Paris Saint-Germain (PSG) en la liga francesa. Con el PSG, Messi continúa demostrando su habilidad y liderazgo en el campo. Su Mayor logro, lo que siempre deseo desde sus inicios fue ganar titulos con su seleccion. Esto ocurrio en los años 2021 - 2022. Argentina de la mano de Messi logro ganar: Copa America(2021),Finalissima(2022) y World Cup(2022).
     <br>
   </p>
-    
   <img src="https://cronometro.hn/wp-content/uploads/2022/12/Copa.jpg"
-
-  
   alt="Foto de Messi">
-
 </p>
 <strong>VISITA SU TWITTER: </strong><a href= "https://twitter.com/leomessisite" target= "_blank">Twitter de Messi</a>.
-
-
-
   <br>
   <br>
   <h2> 2. PAULO LONDRA </h2>
@@ -37,16 +30,13 @@
     <br>
     <br>Después del éxito de "Adán y Eva", Londra continuó lanzando sencillos populares como "Chica Paranormal", "Tal Vez", "Forever Alone" y "Condenado para el millón". Sus canciones se caracterizan por mezclar ritmos de rap, trap y reggaeton, y abordan temas como el amor, las relaciones y las experiencias personales.
     <br>
-    
     <br>Además de su éxito como solista, Paulo Londra ha colaborado con varios artistas reconocidos, como Becky G en la canción "Cuando Te Besé" y Lenny Tavárez en "Nena Maldición". Estas colaboraciones han ampliado aún más su popularidad y le han permitido llegar a nuevos públicos. Sin embargo, a pesar de su rápido ascenso en la industria musical, Paulo Londra ha enfrentado algunos desafíos legales y disputas contractuales. En 2019, el cantante se vio envuelto en una disputa legal con su antigua discográfica, lo que resultó en la limitación de sus actividades musicales. 
     <br>
     <br>Esta situación generó gran atención mediática y sus fanáticos expresaron su apoyo en redes sociales bajo el lema "FreeLondra". A pesar de estos obstáculos, Paulo Londra ha continuado trabajando en nueva música y ha logrado mantener una base de seguidores leales en todo el mundo. Su estilo único y su habilidad lírica lo han convertido en uno de los artistas más destacados de la escena musical urbana en Latinoamérica
   <br>
  <p>
   <img src="https://assets.change.org/photos/4/xc/cl/wsxcCLqfSuotKar-800x450-noPad.jpg?1600288703" 
-  
   alt="Foto de Paulo Londra">
-   
 </p>
 <strong>VISITA SU TWITTER: </strong>
  <a href="https://twitter.com/paulolondra" target= "_blank">Twitter de Paulo Londra</a>.
