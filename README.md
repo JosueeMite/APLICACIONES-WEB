@@ -3,7 +3,6 @@ Pagina web
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Biografias</title>
 </head>
 <body>
   <h1>BIOGRAFIAS</h1>
