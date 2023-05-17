@@ -1,6 +1,4 @@
-# JosueeMite.github.io
-Pagina web
-<!DOCTYPE html>
+
 <html>
 <head>
 </head>
